@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 GIT help to return to later:
 https://docs.github.com/en/issues/trying-out-the-new-projects-experience
 
-Reminder:  I have embedded comments (only visible in edit view) in the readme file that are of use to me in my ongoing projects but which I did not want to display to the universe on here. 
+Reminder:  I have embedded comments (only visible in edit view) in the readme file that are of use only to me. 
 <!--
 Shortcut to Company Repositories I work on \(Access is by Invitation Only\):
 * https://github.com/JimTVanc/CollegeBoard
