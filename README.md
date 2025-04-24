@@ -2,8 +2,8 @@ About Me:
 - 👋 Hi, I’m @MitchAtCB (Collegeboard)
 - 👀 I’m interested in XML, DITA, CCMS, CMS, and lots of technologies
 
-I love these icons but have no intention on filling out this part of the readme file:
-- 🌱 I’m currently learning ...
+I love these icons but have no intention on filling all of this out:
+- 🌱 I’m currently learning every day (but not studying anyting specific)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
